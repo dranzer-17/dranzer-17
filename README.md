@@ -1,4 +1,4 @@
-# [Kavish] - Machine Learning, Deep Learning & Full Stack Engineer | Music Enthusiast 🎶
+# Kavish - Machine Learning, Deep Learning & Full Stack Engineer | Music Enthusiast 🎶
 
 ## About Me
 
@@ -30,12 +30,3 @@ I’m always looking to collaborate with like-minded individuals, whether it’s
 - **[kavish17shah2509@gmail.com](#)**
 
 Feel free to browse through my repositories for more on my work, and let’s create something awesome together!
-
----
-
-
----
-
-📈 **GitHub Stats:**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
