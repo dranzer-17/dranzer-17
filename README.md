@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 Hi, I'm [Kavish]! I'm a passionate **Machine Learning (ML) & Deep Learning (DL) Engineer** with a strong foundation in **Full Stack Development**. I love turning ideas into reality by building intelligent systems and scalable applications.
+👋 Hi, I'm Kavish! I'm a passionate **Machine Learning (ML) & Deep Learning (DL) Engineer** with a strong foundation in **Full Stack Development**. I love turning ideas into reality by building intelligent systems and scalable applications.
 
 When I’m not immersed in tech, you’ll find me jamming on my **piano** or **guitar**, often accompanied by the timeless beats of **retro Bollywood**. 🎶 Music is my creative outlet, and it fuels my productivity while I work on exciting projects.
 
