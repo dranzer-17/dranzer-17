@@ -13,7 +13,7 @@ When I’m not immersed in tech, you’ll find me jamming on my **piano** or **g
 ### 💻 **Technical Skills:**
 - **Languages:** Python, JavaScript, SQL, HTML/CSS
 - **Machine Learning & Deep Learning:** TensorFlow, PyTorch, Keras, Scikit-learn, Model Deployment
-- **Full Stack Development:** React.js, Node.js, Express.js, Flask, Django
+- **Full Stack Development:** React.js, Node.js, Next.js, Express.js, Flask, Django
 - **Data Engineering & Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 - **Cloud & Deployment:** AWS, Heroku, Docker, Kubernetes
 
