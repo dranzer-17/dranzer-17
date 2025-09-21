@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=32&duration=2000&pause=500&color=FF006E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1200&height=120&lines=%E2%9A%A1+BREAKING+THE+BOUNDARIES+OF+AI+%E2%9A%A1;%F0%9F%94%A5+WHERE+CODE+MEETS+CONSCIOUSNESS+%F0%9F%94%A5;%F0%9F%9A%80+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![](https://img.shields.io/badge/PROFILE%20VIEWS-15K+-FF006E?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=000000)](https://github.com/dranzer-17)
-  [![](https://img.shields.io/badge/GITHUB%20FOLLOWERS-500+-8338EC?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/dranzer-17)
-  [![](https://img.shields.io/badge/TOTAL%20STARS-1.2K+-3A86FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000)](https://github.com/dranzer-17)
-  [![](https://img.shields.io/badge/REPOS-50+-FFBE0B?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)](https://github.com/dranzer-17)
-  
-</div>
 
 ---
 
