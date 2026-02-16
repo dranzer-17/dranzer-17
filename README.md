@@ -47,24 +47,6 @@ const kavish = {
 </tr>
 </table>
 
----
-
-## 💼 **PROFESSIONAL EXPERIENCE**
-
-<div align="center">
-
-| 🏢 **Company** | 💡 **Role** | 📅 **Duration** | 🔧 **Tech Stack** |
-|:--------------:|:-----------:|:---------------:|:-----------------:|
-| <img src="https://img.shields.io/badge/APT-FF006E?style=for-the-badge&logo=rocket&logoColor=white"/> | **AI Agent + Backend Developer** | Aug 2024 - Present | `LLMs` `FastAPI` `RAG` `MCP` |
-| <img src="https://img.shields.io/badge/SimPPL-8338EC?style=for-the-badge&logo=brain&logoColor=white"/> | **Research Engineering Intern** | Apr 2025 - Aug 2025 | `NLP` `ML` `AWS` `Python` |
-| <img src="https://img.shields.io/badge/DJS%20INFOMATRIX-3A86FF?style=for-the-badge&logo=microscope&logoColor=white"/> | **Research Mentor** | Aug 2025 - Present | `Computer Vision` `Research` |
-| <img src="https://img.shields.io/badge/DJS%20NSDC-FFBE0B?style=for-the-badge&logo=html5&logoColor=black"/> | **Web Developer** | Aug 2024 - 2025 | `React` `Next.js` `Node.js` |
-| <img src="https://img.shields.io/badge/DJS%20NOVA-FB5607?style=for-the-badge&logo=css3&logoColor=white"/> | **Web Developer** | Aug 2024 - 2025 | `JavaScript` `CSS` `HTML` |
-| <img src="https://img.shields.io/badge/S4DS-000000?style=for-the-badge&logo=megaphone&logoColor=white"/> | **Publicity Co-committee** | Aug 2024 - 2025 | `Marketing` `Leadership` |
-
-</div>
-
----
 
 ## ⚡ **TECH ARSENAL**
 
